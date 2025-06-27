@@ -10,8 +10,8 @@ As part of my internship, I was assigned the task of analyzing and visualizing s
 ## 📁 Dataset Description
 
 The dataset used includes tweets from two sources:  
-- `twitter_training.csv`  
-- `twitter_validation.csv`
+- [`twitter_training.csv`](./twitter_training.csv) – [Click to Download](./twitter_training.csv)  
+- [`twitter_validation.csv`](./twitter_validation.csv) – [Click to Download](./twitter_validation.csv)
 
 Each record contains:
 - `Tweet_ID`: Unique identifier for the tweet
@@ -65,11 +65,12 @@ Each record contains:
 - Strengthened my overall EDA and data storytelling workflow
 
 ---
+
 ## 🙋‍♀️ About Me
 
 **Drashti Parmar**  
 🎓 Computer Engineering | 📊 Aspiring Data Scientist  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/drashti-parmar) <!-- Replace with your actual LinkedIn link -->
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/drashti-parmar-683358320)
 
 ---
 
@@ -78,3 +79,4 @@ Each record contains:
 Thanks to the internship team for providing this internship opportunity and assigning real-world tasks that enhance my practical data science capabilities.
 
 ---
+
